@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    width: 50cm;
+}
+.div1{
+    border: 7px dashed rgb(255, 0, 0) ;
+    padding: 20px 5px;
+    margin: 50px 180px;
+    border-radius: 200px;
+    background-color: rgb(249, 252, 183);
+}
+#img1{
+ width: 20cm;
+ padding: 20px 10px;
+ border-radius: 80px;
+ border: 5px double rgb(119, 0, 255);
+}
+.a1{
+    margin: 60px;
+    font-size: 30px;
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+}
+footer{
+    border: 7px solid rgb(0, 255, 42) ;
+    background-color: rgb(213, 248, 203);
+    margin: 30px 290px;
+    border-radius: 50px;
+}
+.header1{
+    border: 9px dotted rgb(0, 55, 255) ;
+    border-radius: 80px;
+    background-color: rgb(194, 219, 250);
+    padding: 30px;
+    margin: 30px 100px;
+}
+.div2{
+    border: 9px solid rgb(136, 0, 255) ;
+    padding: 30px 5px;
+    margin: 70px 500px;
+    border-radius: 150px;
+    background-color: rgb(196, 185, 247);
+}
+#img2{
+     border-radius: 80px;
+     border: 6px dashed rgb(238, 255, 0);
+}
+.header2{
+    border: 9px dotted rgb(255, 0, 0) ;
+    border-radius: 80px;
+    background-color: rgb(244, 174, 174);
+    padding: 30px;
+    margin: 30px 100px;
+}
+.a2{
+    margin: 60px;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+.a3{
+    margin: 60px;
+    font-size: 30px;
+    color: rgb(10, 42, 0);
+    text-decoration: none;
+}
+.header3{
+    border: 9px dotted rgb(26, 95, 0) ;
+    border-radius: 80px;
+    background-color: rgb(197, 248, 162);
+    padding: 30px;
+    margin: 30px 100px;
+}
+input{
+    border-radius: 20px;
+    padding: 10px 40px;
+    text-align: center;
+    margin: 6px;
+    border: 3px solid rgb(136, 0, 255);
+}
+form{
+    border-radius: 20px;
+    padding: 10px 6px;
+    text-align: center;
+    margin: 30px 400px;
+    border: 6px dashed rgb(0, 47, 236);
+    background-color: rgb(214, 226, 252);  
+}
+.a4{
+    margin: 60px;
+    font-size: 30px;
+    color: rgb(248, 87, 0);
+    text-decoration: none;
+}
+.header4{
+    border: 9px dotted rgb(255, 98, 0) ;
+    border-radius: 80px;
+    background-color: rgb(248, 198, 181);
+    padding: 30px;
+    margin: 30px 100px;
+}
+p{
+    margin: 30px;
+}
+a{
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+#img3{
+     border-radius: 60px;
+     border: 6px solid rgb(255, 0, 89);
+}
